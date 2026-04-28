@@ -4,11 +4,11 @@
 
 ### Inteligência Artificial Aplicada à Suinocultura de Precisão
 
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=flat-square)](https://github.com)
-[![Fase](https://img.shields.io/badge/fase%20atual-3%20de%204-blue?style=flat-square)](https://github.com)
-[![Precisão](https://img.shields.io/badge/precisão-100%25-brightgreen?style=flat-square)](https://github.com)
-[![mAP](https://img.shields.io/badge/mAP%20noturno-%3E0.60-brightgreen?style=flat-square)](https://github.com)
-[![Core IA](https://img.shields.io/badge/core%20IA-YOLOv8-red?style=flat-square)](https://github.com)
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=flat-square)](#)
+[![Fase](https://img.shields.io/badge/fase%20atual-3%20de%204-blue?style=flat-square)](#)
+[![Precisão](https://img.shields.io/badge/precisão-100%25-brightgreen?style=flat-square)](#)
+[![mAP](https://img.shields.io/badge/mAP%20noturno-%3E0.60-brightgreen?style=flat-square)](#)
+[![Core IA](https://img.shields.io/badge/core%20IA-YOLOv8-red?style=flat-square)](#)
 
 </div>
 
